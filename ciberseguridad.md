@@ -149,4 +149,57 @@ Los estudiantes seleccionarán un proyecto relacionado con la ciberseguridad, de
 
 ### Total de Créditos de la Carrera: 150 créditos
 
-Este pensum proporciona una formación integral en ciberseguridad, combinando teoría y práctica, y prepara a los estudiantes para una carrera exitosa en este campo en constante evolución.
+### Distribución de Créditos
+- **Formación General (34 créditos)**
+  - Introducción a la Programación (3)
+  - Matemáticas Discretas (3)
+  - Álgebra Lineal (3)
+  - Comunicación Oral y Escrita (2)
+  - Cálculo I (3)
+  - Cálculo II (3)
+  - Física I (4)
+  - Física II (3)
+  - Ética y Privacidad en Ciberseguridad (2)
+  - Optimización y Análisis de Decisiones (3)
+  - Investigación de Operaciones I (3)
+  - Investigación de Operaciones II (3)
+
+- **Formación Especializada (72 créditos)**
+  - Estructuras de Datos y Algoritmos (4)
+  - Fundamentos de Redes (3)
+  - Sistemas Operativos (3
+
+)
+  - Bases de Datos I (3)
+  - Bases de Datos II (3)
+  - Programación Avanzada (4)
+  - Introducción a la Ciberseguridad (3)
+  - Métodos Numéricos (3)
+  - Criptografía (4)
+  - Seguridad en Redes (4)
+  - Seguridad en Aplicaciones Web (4)
+  - Big Data y Computación en la Nube (4)
+  - Forense Digital (3)
+  - Seguridad en Dispositivos Móviles (4)
+  - Análisis de Malware (3)
+  - Inteligencia Artificial en Ciberseguridad (3)
+  - Análisis de Grandes Volúmenes de Datos (3)
+  - Robótica y Automatización (3)
+  - Bioinformática (3)
+  - Ciberseguridad y Ciencia de Datos (3)
+  - Economía y Finanzas Cuantitativas (3)
+
+- **Formación Profesional (44 créditos)**
+  - Gestión de Proyectos (3)
+  - Proyectos de Ciberseguridad I (3)
+  - Proyectos de Ciberseguridad II (3)
+  - Proyectos de Ciberseguridad III (3)
+  - Electiva I (3)
+  - Electiva II (3)
+  - Electiva III (3)
+  - Electiva IV (3)
+  - Electiva V (3)
+  - Proyectos de Ciberseguridad (12)
+  - Tópicos Avanzados en Ciberseguridad (3)
+
+Este esquema garantiza una formación integral, combinando una sólida base teórica con habilidades prácticas y especializadas en ciberseguridad.

@@ -149,4 +149,57 @@ Los estudiantes seleccionarán un proyecto relacionado con la ciencia de datos, 
 
 ### Total de Créditos de la Carrera: 150 créditos
 
-Este pensum proporciona una formación integral en ciencia de datos, combinando teoría y práctica, y prepara a los estudiantes para una carrera exitosa en este campo en constante evolución.
+### Distribución de Créditos
+- **Formación General (34 créditos)**
+  - Introducción a la Programación (3)
+  - Matemáticas Discretas (3)
+  - Álgebra Lineal (3)
+  - Comunicación Oral y Escrita (2)
+  - Cálculo I (3)
+  - Cálculo II (3)
+  - Física I (4)
+  - Física II (3)
+  - Ética y Privacidad en Ciencia de Datos (2)
+  - Optimización y Análisis de Decisiones (3)
+  - Investigación de Operaciones I (3)
+  - Investigación de Operaciones II (3)
+
+- **Formación Especializada (72 créditos)**
+  - Estructuras de Datos y Algoritmos (4)
+  - Estadística I (3)
+  -
+
+ Estadística II (3)
+  - Bases de Datos I (3)
+  - Bases de Datos II (3)
+  - Programación Avanzada (4)
+  - Introducción a la Ciencia de Datos (3)
+  - Métodos Numéricos (3)
+  - Minería de Datos (4)
+  - Aprendizaje Automático I (4)
+  - Aprendizaje Automático II (4)
+  - Big Data y Computación en la Nube (4)
+  - Procesamiento de Lenguaje Natural (3)
+  - Deep Learning (4)
+  - Análisis de Series Temporales (3)
+  - Inteligencia Artificial (3)
+  - Análisis de Grandes Volúmenes de Datos (3)
+  - Robótica y Automatización (3)
+  - Bioinformática (3)
+  - Ciberseguridad y Ciencia de Datos (3)
+  - Economía y Finanzas Cuantitativas (3)
+
+- **Formación Profesional (44 créditos)**
+  - Gestión de Proyectos (3)
+  - Proyectos de Ciencia de Datos I (3)
+  - Proyectos de Ciencia de Datos II (3)
+  - Proyectos de Ciencia de Datos III (3)
+  - Electiva I (3)
+  - Electiva II (3)
+  - Electiva III (3)
+  - Electiva IV (3)
+  - Electiva V (3)
+  - Proyectos de Ciencia de Datos (12)
+  - Tópicos Avanzados en Ciencia de Datos (3)
+
+Este esquema garantiza una formación integral, combinando una sólida base teórica con habilidades prácticas y especializadas en ciencia de datos.
